@@ -2,4 +2,4 @@
 git-vs-github
 
 ## clone git
-## git and githun pull changes
+## git and github pull changes
